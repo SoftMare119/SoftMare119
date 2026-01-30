@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">
+  Hi there 👋 I'm Hanyu
+</h1>
 
-<!--
-**SoftMare119/SoftMare119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💼 Business Analyst @ Accenture UK | 📖 MA in Comparative Business Economics @ UCL
+</p>
+<p align="center">
+  🧠 A curious builder with no formal programming background | Learning by building real projects 
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  ## 🤝 Connect with me
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/hanyu-ma-7bbb08220/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
