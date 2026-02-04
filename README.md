@@ -15,7 +15,7 @@
 
 > Alongside my project work, I have a strong interest in cloud technologies and enjoy exploring new technical fields from scratch. I actively use AI as a learning partner to experiment, build different solutions, and turn ideas into real, working projects. I have also pursued multiple cloud certifications to deepen my technical fluency and broaden the value I bring to my teams.
 
-> My goal is to continue combining my finance and data analysis background with cloud-driven and AI-enabled innovation to solve problems, optimize performance, and create meaningful impact.
+> My goal is to continue combining my finance and data analysis background with cloud-driven and AI-enabled innovation to solve problems, optimise performance, and create meaningful impact.
 
 ---
 
